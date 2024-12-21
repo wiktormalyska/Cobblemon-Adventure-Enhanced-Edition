@@ -1,29 +1,58 @@
-.mixin.out
-.spyglass_astronomy
-controlify-natives
-data
-defaultconfigs
-downloads
-emotes
-fancymenu_data
-moddata
-patchouli_books
-polymer
-saves
-screenshots
-server-resource-packs
-showdown
-texturepacks
-xaero
-XaeroWaypoints
-XaeroWaypoints_*
-commandand_history.txt
-emi.json
+# Minecraft
+*.log
+*.dat
+*.json
+*.bak
+
+# Folders for mod data, saves, and config files
+/mixin.out/
+/.spyglass_astronomy/
+/controlify-natives/
+/data/
+/defaultconfigs/
+/downloads/
+/emotes/
+/fancymenu_data/
+/moddata/
+/patchouli_books/
+/polymer/
+/saves/
+/screenshots/
+/server-resource-packs/
+/showdown/
+/texturepacks/
+/xaero/
+/logs/
+/XaeroWaypoints/
+/XaeroWaypoints_*
+/mods/.index/
+
+# Files related to commands and history
+command_history.txt
+
+# Images for instance or server icon
 icon.png
 instance.png
+
+# Minecraft specific persistence data
 patchouli_data.json
 realms_persistence.json
 servers.dat
 servers.dat_old
+
+# Caching files
 usercache.json
 usernamecache.json
+
+# IntelliJ/Webstorm/IDE related files
+.idea/
+*.iml
+
+# Operating System files (e.g., Windows, macOS, etc.)
+Thumbs.db
+.DS_Store
+
+# Java files and build outputs (if relevant to your environment)
+*.class
+*.jar
+build/

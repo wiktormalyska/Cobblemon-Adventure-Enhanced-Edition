@@ -1,0 +1,44 @@
+[General]
+	# Enable the ability to open Backpacks from inventory.
+	# When disabled, backpacks has to be placed like Shulker Boxes.
+	# Allowed: true ~ false
+	open_from_inventory = false
+	# Enable the ability to take Backpacks and ShulkerBoxes from End Backpack
+	# Allowed: true ~ false
+	unlock_end_backpack = false
+
+["Leather Backpack"]
+	# Ranged 1 ~ 2
+	rows = 1
+	# Ranged 9 ~ 11
+	columns = 9
+
+["Copper Backpack"]
+	# Ranged 1 ~ 3
+	rows = 2
+	# Ranged 9 ~ 14
+	columns = 9
+
+["Gold Backpack"]
+	# Ranged 1 ~ 4
+	rows = 3
+	# Ranged 9 ~ 16
+	columns = 11
+
+["Iron Backpack"]
+	# Ranged 1 ~ 6
+	rows = 4
+	# Ranged 9 ~ 18
+	columns = 12
+
+["Diamond Backpack"]
+	# Ranged 1 ~ 8
+	rows = 6
+	# Ranged 9 ~ 20
+	columns = 14
+
+["Netherite Backpack"]
+	# Ranged 1 ~ 10
+	rows = 8
+	# Ranged 9 ~ 25
+	columns = 16
