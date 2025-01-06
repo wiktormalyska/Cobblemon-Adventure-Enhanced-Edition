@@ -1,0 +1,16 @@
+filename = 'athena-fabric-1.21-4.0.1.jar'
+name = 'Athena'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'eae671bef85a7dbbe7bf466b444ffb574596b61972b78d1c89338c59283a3801eac622fa66bc2757f7f8a9db01cd508e42ce2c3feb85346c6502f521612a5320'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7G1e11iK/athena-fabric-1.21-4.0.1.jar'
+
+[update.modrinth]
+mod-id = 'b1ZV3DIJ'
+version = '7G1e11iK'

@@ -1,0 +1,53 @@
+filename = 'CameraOverhaul-1.4.1-fabric-universal.jar'
+name = 'Camera Overhaul'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [
+    '1.14',
+    '1.14.1',
+    '1.14.2',
+    '1.14.3',
+    '1.14.4',
+    '1.15',
+    '1.15.1',
+    '1.15.2',
+    '1.16',
+    '1.16.1',
+    '1.16.2',
+    '1.16.3',
+    '1.16.4',
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '17be74a777f81a2e24983f7d16a6097cdc5f5a366e77eb99a4804667d33d6062ca1671e156aed836acb7953b9e43acf30902b6d2bcba737bc0475b3574806cde'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/m0oRwcZx/versions/siH8aqXE/CameraOverhaul-1.4.1-fabric-universal.jar'
+
+[update.modrinth]
+mod-id = 'm0oRwcZx'
+version = 'siH8aqXE'

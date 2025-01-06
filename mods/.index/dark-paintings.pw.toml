@@ -1,0 +1,16 @@
+filename = 'darkpaintings-fabric-1.21.1-21.1.2.jar'
+name = 'Dark Paintings'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6a94327f503166625338faef13b142ddfd7535bf51da1cfc60139ec7c73cbfe3b094977ec2dbf8c6627428037529b7fde86439d9d8bc0db9620aa2d58f34428e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lFGQ4Hnk/versions/1wfayMST/darkpaintings-fabric-1.21.1-21.1.2.jar'
+
+[update.modrinth]
+mod-id = 'lFGQ4Hnk'
+version = '1wfayMST'

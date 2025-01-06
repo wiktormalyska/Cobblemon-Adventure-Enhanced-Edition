@@ -1,0 +1,16 @@
+filename = 'SnowRealMagic-1.21.1-Fabric-11.0.13.jar'
+name = 'Snow! Real Magic! ⛄'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric', 'quilt' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6fcf39a9aa855d54a534b7728e2d57056ebad8a29c3e8b5347e82aaf06332f4eb62ad6cc3bf1a56733ca0e2b7574aadde9b9bf0b06aee22fb4aabff989d0ad60'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iJNje1E8/versions/FFW2DVUh/SnowRealMagic-1.21.1-Fabric-11.0.13.jar'
+
+[update.modrinth]
+mod-id = 'iJNje1E8'
+version = 'FFW2DVUh'
