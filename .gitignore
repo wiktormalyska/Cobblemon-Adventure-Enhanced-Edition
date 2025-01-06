@@ -25,7 +25,6 @@
 /logs/
 /XaeroWaypoints/
 /XaeroWaypoints_*
-/mods
 # Files related to commands and history
 command_history.txt
 
