@@ -1,0 +1,16 @@
+filename = 'Cobblemon-fabric-1.6.0+1.21.1.jar'
+name = 'Cobblemon'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6919a5042d6dbce4313150efb9ac4fd90b1e977d94a7abbc27b741b95cb5873709c44588ea32ea755274cdfa425703092089021d642d593ac5b5db2d3108fdca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MdwFAVRL/versions/qQkr9Wdi/Cobblemon-fabric-1.6.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'MdwFAVRL'
+version = 'qQkr9Wdi'

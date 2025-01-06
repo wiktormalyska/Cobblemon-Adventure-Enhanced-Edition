@@ -1,0 +1,16 @@
+filename = 'justenoughbreeding-fabric-1.21-1.21.1-1.5.0.jar'
+name = 'Just Enough Breeding'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c32072dc28a623e584a97f5afc4f179a456ba8cb910f4c3c4206364900849e2cc9eaefde50b30a9744730e263a20382d4f42d58323f6597a8eec2705e7a21144'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9Pk89J3g/versions/rZzcQnhr/justenoughbreeding-fabric-1.21-1.21.1-1.5.0.jar'
+
+[update.modrinth]
+mod-id = '9Pk89J3g'
+version = 'rZzcQnhr'

@@ -1,0 +1,16 @@
+filename = 'player-animation-lib-fabric-2.0.0+1.21.1.jar'
+name = 'Player Animator'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'cc8f6857beaef069e519c005a3e45d1ce54f75e73ba757f0436066b295571ca325b3adb1d5dd916b4eb5e843f13ac4be97171d0025369ac64cfcb6121520ef1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gedNE4y2/versions/c8mDzSTL/player-animation-lib-fabric-2.0.0%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'gedNE4y2'
+version = 'c8mDzSTL'

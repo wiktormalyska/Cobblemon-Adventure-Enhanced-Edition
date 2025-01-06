@@ -1,0 +1,16 @@
+filename = 'more_armor_trims-1.4.1-1.21.jar'
+name = 'More Armor Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '89d2074dff3d419f9ecb4dd0d8563b51e6a5cfafa4f7337f0539b32a1e87b63b957f10e76a9a0a37a03b4cfef1ee468de401f0d9e589a5dc0374a863c28a1064'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FGNYBAJ6/versions/Yp982jH0/more_armor_trims-1.4.1-1.21.jar'
+
+[update.modrinth]
+mod-id = 'FGNYBAJ6'
+version = 'Yp982jH0'
